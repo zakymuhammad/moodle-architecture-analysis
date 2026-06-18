@@ -1,0 +1,13 @@
+Module,Fan_In,Fan_Out,Instability,Total_Cohesion_Internal,Cohesion_Ratio
+Other_Core,3,12.0,0.8,11098.0,0.8686599874765185
+core_admin,1,3.0,0.75,0.0,0.0
+core_lib,2,1.0,0.3333333333333333,0.0,0.0
+core_auth,1,0.0,0.0,0.0,0.0
+core_backup,2,0.0,0.0,0.0,0.0
+core_course,1,0.0,0.0,0.0,0.0
+mod_assign,1,0.0,0.0,0.0,0.0
+mod_feedback,1,0.0,0.0,0.0,0.0
+mod_forum,1,0.0,0.0,0.0,0.0
+mod_glossary,1,0.0,0.0,0.0,0.0
+mod_lti,1,0.0,0.0,0.0,0.0
+mod_quiz,1,0.0,0.0,0.0,0.0
